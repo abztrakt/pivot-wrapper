@@ -1,1 +1,1 @@
--e https://github.com/uw-it-aca/pivot.git#egg=pivot
+-e git+https://github.com/uw-it-aca/pivot.git#egg=pivot
