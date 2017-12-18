@@ -1,2 +1,1 @@
-psycopg2
 -e git+https://github.com/uw-it-aca/pivot.git@qa#egg=pivot
